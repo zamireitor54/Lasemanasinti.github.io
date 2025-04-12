@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const galleryPhotos = [
             { src: "1.jpg", caption: "El dia que solo pensaba en besarte " },
             { src: "2.jpg", caption: "Cuando me dijiste que era lindo" },
-            { src: "/3.jpg", caption: "Cuando te cause ternura" },
+            { src: "3.jpg", caption: "Cuando te cause ternura" },
             { src: "4.jpg", caption: "Una de mis primeras fotos" },
             { src: "5.jpg", caption: "Queria que me vieras" },
             { src: "6.jpg", caption: "Mostrandome mis brackets" },
